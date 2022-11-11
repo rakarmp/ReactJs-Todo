@@ -25,7 +25,7 @@ export const Footer = () => {
           </a>
         </CDBBox>
         <CDBBox>
-          <small className="ml-2">style and code &#128153; rakarmp</small>
+          <small className="ml-2">style and code ♥️ rakarmp</small>
         </CDBBox>
       </CDBBox>
     </CDBFooter>
