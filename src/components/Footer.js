@@ -4,6 +4,8 @@ import {
   CDBBox,
 } from "cdbreact";
 
+// Footer Memakai CDBReact
+
 export const Footer = () => {
   return (
     <CDBFooter className="footer">
