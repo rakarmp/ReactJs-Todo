@@ -4,6 +4,8 @@ import { Button, Card, Form } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Footer } from "./components/Footer";
 
+// Content Memakai Bootstrap
+
 function Todo({ todo, index, markTodo, removeTodo }) {
   return (
     <div className="todo">
