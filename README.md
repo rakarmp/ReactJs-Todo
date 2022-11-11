@@ -13,9 +13,9 @@ Todo List Usefully Now, Forks,Clone,Edit Style,Open Pull Request
 ```
 npm install
 
-npm run
+npm run lari-ada-wibu
 
-npm build
+npm run build
 ```
 
 Thank you for all Good Day :grin:
