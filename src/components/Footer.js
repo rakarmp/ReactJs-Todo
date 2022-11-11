@@ -1,10 +1,6 @@
 import React from "react";
 import {
   CDBFooter,
-  CDBFooterLink,
-  CDBBtn,
-  CDBIcon,
-  CDBContainer,
   CDBBox,
 } from "cdbreact";
 
@@ -22,6 +18,7 @@ export const Footer = () => {
           <a
             href="https://github.com/grizz12"
             target="_blank"
+            rel="noreferrer"
             className="d-flex align-items-center p-0 text-dark"
           >
             <span className="ml-4 h5 mb-0 font-weight-bold">Github</span>
